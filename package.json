@@ -1,0 +1,25 @@
+{
+  "name": "alfred-zenn-posts",
+  "version": "1.0.0",
+  "description": "Alfred Workflow to search for your Zenn posts and scraps.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kawamataryo/alfred-zenn-posts"
+  },
+  "keywords": [],
+  "author": "Ryo Kawamata <ba068082@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kawamataryo/alfred-zenn-posts"
+  },
+  "homepage": "https://github.com/kawamataryo/alfred-zenn-posts#readme",
+  "dependencies": {
+    "alfy": "^0.9.1",
+    "emojiimages": "^1.2.1"
+  }
+}
