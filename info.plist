@@ -23,7 +23,7 @@
 	<key>createdby</key>
 	<string>ryoKawamata</string>
 	<key>description</key>
-	<string></string>
+	<string>Alfred Workflow to search for your Zenn posts and scraps.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -124,8 +124,10 @@
 		<key>USER_NAME</key>
 		<string></string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string></string>
+	<string>1.5.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/kawamataryo/alfred-zenn-posts</string>
 </dict>
