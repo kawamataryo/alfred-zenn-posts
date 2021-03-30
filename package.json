@@ -1,6 +1,6 @@
 {
   "name": "alfred-zenn-posts",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Alfred Workflow to search for your Zenn posts and scraps.",
   "main": "index.js",
   "scripts": {
